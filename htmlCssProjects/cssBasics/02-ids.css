@@ -1,0 +1,20 @@
+body {
+    background-color: rgb(201, 234, 123);
+}
+
+#number-one {
+    color: rgb(50, 37, 173);
+}
+
+#number-two {
+    font-size: 20px;
+}
+
+.first-class {
+    color: rgb(243, 40, 152);
+
+}
+
+.second-class {
+    color: rgb(206, 46, 206);
+}
